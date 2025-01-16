@@ -5,7 +5,7 @@ tags:
   - Obsidian
 ---
 
-![[img/Pasted image 20250115154502.png]]
+![](img/Pasted image 20250115154502.png)
 
 [[1. Введение]]
 [[2. Установка]]
